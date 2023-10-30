@@ -2,14 +2,14 @@
  <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rohith-bhat-1884021b4)&nbsp;
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rohithbhat198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nadeem25" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nadeem25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nadeem25" height="30" width="40" /></a>
 </p>
 
  
  
 - 🔭 Java | HTML | CSS | JavaScript | SQL 
 - 🌱 I’m currently learning: React.js
-- 📫 How to reach me: [Click here](http://www.linkedin.com/in/rohith-bhat-1884021b4)
+- 📫 How to reach me: [Click here](https://www.linkedin.com/in/nadeem-pasha-2517a6225/)
 
 
 
