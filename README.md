@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nadeem</h1>
-<h3 align="center">A passionate Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+ Hello I am Nadeem pasha
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rohith-bhat-1884021b4)&nbsp;
+<p align="left">
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rohithbhat198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nadeem25" height="30" width="40" /></a>
+</p>
 
+ 
+ 
 - 🔭 Java | HTML | CSS | JavaScript | SQL 
 - 🌱 I’m currently learning: React.js
 - 📫 How to reach me: [Click here](http://www.linkedin.com/in/rohith-bhat-1884021b4)
