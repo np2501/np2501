@@ -7,8 +7,7 @@
 
  
  
-- 🔭 Java | HTML | CSS | JavaScript | SQL 
-- 🌱 I’m currently learning: React.js
+- 🔭 Java | HTML | CSS | JavaScript | SQL | React.js | Node.js | Express.js | Mongodb
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/nadeem-pasha-2517a6225/)
 
 
@@ -18,9 +17,13 @@
  </div>
 <div align="center">   
 
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+ <img style="margin: 10px" src="https://res.cloudinary.com/arcjet-media/image/upload/c_scale,w_256/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" alt="Tailwind" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
+ <img style="margin: 10px" src="https://www.pngitem.com/pimgs/m/577-5779757_react-material-ui-logo-hd-png-download.png" alt="Material UI" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="50"/> </a> </p>
 
    
 
